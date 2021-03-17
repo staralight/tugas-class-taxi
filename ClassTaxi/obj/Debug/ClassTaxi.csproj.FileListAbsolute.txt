@@ -1,0 +1,7 @@
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.exe.config
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.exe
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.pdb
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.csprojAssemblyReference.cache
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.csproj.CoreCompileInputs.cache
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.exe
+C:\Users\Ananda\OneDrive\Documents\KULIAH\semester2\pemrograman\latihan\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.pdb
